@@ -1,2 +1,2 @@
-# LSPCQA-and-ResSCNN
-Database and code will be released soon!
+# LSPCQA
+Database will be released soon!
